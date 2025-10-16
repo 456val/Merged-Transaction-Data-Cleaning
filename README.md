@@ -28,9 +28,3 @@ The cleaned dataset allowed the project to generate meaningful summaries:
 - **Visualization:** Horizontal bar charts highlighted categories with the highest total amounts and transaction volumes.
 - **Statistics:** Summary statistics revealed patterns in total amounts spent and transaction counts, including averages, maximums, and minimums.
 
-Overall, this project demonstrates how structured preprocessing of transaction data can reveal important insights about spending distribution and product performance, which is critical for decision-making and business strategy.
-
-### Next Steps
-- Expand the analysis to multi-day datasets to identify temporal trends.
-- Include revenue and transaction patterns by customer or region.
-- Integrate interactive dashboards to visualize spending patterns dynamically.
